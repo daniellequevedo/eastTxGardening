@@ -1,2 +1,2 @@
 # eastTxGardening
-# a simple html/css web page
+a simple html/css web page
